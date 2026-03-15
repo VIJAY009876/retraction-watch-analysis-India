@@ -91,6 +91,15 @@ Based on the analysis, the following measures could help improve research qualit
 5. Encourage **open data and reproducible research practices**.
 
 ---
+## Visualizations
+
+The project includes several visualizations generated using Python.
+
+These scripts are available in the `scripts` folder:
+
+- visualization_country.py → Country-wise retraction analysis
+- visualization_reason.py → Retraction reason distribution
+- visualization_trend.py → Year-wise retraction trend
 
 ## Project Structure
 
